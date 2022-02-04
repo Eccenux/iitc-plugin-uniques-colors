@@ -2,7 +2,7 @@
 // @id             iitc-plugin-uniques-colors@3ch01c
 // @name           IITC plugin: uniques-colors
 // @category       Misc
-// @version        0.0.1
+// @version        0.0.2
 // @namespace      https://github.com/3ch01c/ingress-intel-total-conversion
 // @description    This is an overwrite for uniques highlitghter providing more distinct highlights of uncapture protals.
 // @include        https://*.ingress.com/intel*
@@ -13,5 +13,6 @@
 // @include        http://*.ingress.com/mission/*
 // @match          https://*.ingress.com/mission/*
 // @match          http://*.ingress.com/mission/*
+// @match          https://intel.ingress.com/*
 // @grant          none
 // ==/UserScript==
